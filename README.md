@@ -88,7 +88,3 @@
   You: bye
   See you again!!!!
   ```
-
----
-
-👉 Do you also want me to draft a **requirements.txt** / **setup.py** so you can install your custom modules (`tcpscan`, `psping`, `urlReqHeader`) like regular packages instead of dropping `.py` files into the same folder?
